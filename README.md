@@ -1,0 +1,1 @@
+# Simple card Mini Project using props in React
