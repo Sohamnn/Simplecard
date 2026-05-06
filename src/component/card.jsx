@@ -1,4 +1,5 @@
 import React from 'react'
+import '../styles/card.css'
 // import {Bookmark} from 'lucide-react-native'
 const Card = (props) => {
   
